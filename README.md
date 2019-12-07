@@ -12,4 +12,4 @@ weobtron currently has the following features
 - List buckets
 - List bucket objects
 - Create and set up bucket for website
-
+- sync directory tree to bucket
