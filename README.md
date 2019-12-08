@@ -13,3 +13,4 @@ weobtron currently has the following features
 - List bucket objects
 - Create and set up bucket for website
 - sync directory tree to bucket
+- Set AWS profile with --profile <profileName>
