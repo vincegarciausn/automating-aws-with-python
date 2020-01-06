@@ -14,3 +14,7 @@ weobtron currently has the following features
 - Create and set up bucket for website
 - sync directory tree to bucket
 - Set AWS profile with --profile <profileName>
+
+## 02-notofon started
+
+Get langauge from a cloud guru
